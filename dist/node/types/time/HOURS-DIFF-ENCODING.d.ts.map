@@ -1,0 +1,1 @@
+{"version":3,"file":"HOURS-DIFF-ENCODING.d.ts","sourceRoot":"","sources":["../../../../source/types/time/HOURS-DIFF-ENCODING.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,cAAc,CAAC;AAWvC,MAAM,CAAC,OAAO,OACR,mBAAmB;IAEjB,QAAQ,CAAC,KAAK,EAAE,OAAO;IACvB,QAAQ,CAAC,YAAY,EAAE,OAAO;gBADrB,KAAK,EAAE,OAAO,EACd,YAAY,EAAE,OAAO;CAKrC"}

@@ -1,0 +1,8 @@
+import { INTEGER } from "../../macros";
+export default class TIME_OF_DAY_ENCODING {
+    readonly hours: INTEGER;
+    readonly minutes: INTEGER;
+    readonly seconds: INTEGER;
+    constructor(hours: INTEGER, minutes: INTEGER, seconds: INTEGER);
+}
+//# sourceMappingURL=TIME-OF-DAY-ENCODING.d.ts.map

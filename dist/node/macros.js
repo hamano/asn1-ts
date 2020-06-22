@@ -1,0 +1,22 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.joint_iso_ccitt = exports.joint_iso_itu_t = exports.iso = exports.itu_r = exports.ccitt = exports.itu_t = exports.TYPE_IDENTIFIER = exports.NOT_A_NUMBER = exports.MINUS_INFINITY = exports.PLUS_INFINITY = exports.FALSE_BIT = exports.TRUE_BIT = exports.FALSE = exports.TRUE = void 0;
+const tslib_1 = require("tslib");
+const TypeIdentifier_1 = tslib_1.__importDefault(require("./types/TypeIdentifier"));
+var CharacterString_1 = require("./types/CharacterString");
+Object.defineProperty(exports, "CharacterString", { enumerable: true, get: function () { return CharacterString_1.default; } });
+exports.TRUE = true;
+exports.FALSE = false;
+exports.TRUE_BIT = 1;
+exports.FALSE_BIT = 0;
+exports.PLUS_INFINITY = Infinity;
+exports.MINUS_INFINITY = -Infinity;
+exports.NOT_A_NUMBER = NaN;
+exports.TYPE_IDENTIFIER = TypeIdentifier_1.default;
+exports.itu_t = 0;
+exports.ccitt = 0;
+exports.itu_r = 0;
+exports.iso = 1;
+exports.joint_iso_itu_t = 2;
+exports.joint_iso_ccitt = 2;
+//# sourceMappingURL=macros.js.map

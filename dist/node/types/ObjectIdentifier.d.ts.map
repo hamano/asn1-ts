@@ -1,0 +1,1 @@
+{"version":3,"file":"ObjectIdentifier.d.ts","sourceRoot":"","sources":["../../../source/types/ObjectIdentifier.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OACR,gBAAgB;IAClB,SAAgB,MAAM,EAAE,MAAM,EAAE,CAAC;gBAEpB,KAAK,EAAE,MAAM,EAAE,EAAE,MAAM,CAAC,EAAE,gBAAgB,GAAG,MAAM;IAqChE,IAAI,KAAK,IAAK,MAAM,EAAE,CAErB;IAED,IAAI,oBAAoB,IAAK,MAAM,CAElC;IAEM,QAAQ,IAAK,MAAM;CAG7B"}

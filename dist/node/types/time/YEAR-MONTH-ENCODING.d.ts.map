@@ -1,0 +1,1 @@
+{"version":3,"file":"YEAR-MONTH-ENCODING.d.ts","sourceRoot":"","sources":["../../../../source/types/time/YEAR-MONTH-ENCODING.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,cAAc,CAAC;AAWvC,MAAM,CAAC,OAAO,OACR,mBAAmB;IAEjB,QAAQ,CAAC,IAAI,EAAE,OAAO;IACtB,QAAQ,CAAC,KAAK,EAAE,OAAO;gBADd,IAAI,EAAE,OAAO,EACb,KAAK,EAAE,OAAO;CAI9B"}

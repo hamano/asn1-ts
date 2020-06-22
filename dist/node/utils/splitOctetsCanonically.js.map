@@ -1,0 +1,1 @@
+{"version":3,"file":"splitOctetsCanonically.js","sourceRoot":"","sources":["../../../source/utils/splitOctetsCanonically.ts"],"names":[],"mappings":";;AAAA,QACS,CAAC,CAAA,sBAAsB,CAAE,KAAiB;IAC/C,KAAK,IAAI,CAAC,GAAW,CAAC,EAAE,CAAC,GAAG,KAAK,CAAC,MAAM,EAAE,CAAC,IAAI,IAAI,EAAE;QAEjD,MAAM,KAAK,CAAC,KAAK,CAAC,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,CAAC;KAClC;AACL,CAAC;AAND,yCAMC"}

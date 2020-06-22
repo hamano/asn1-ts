@@ -1,0 +1,1 @@
+{"version":3,"file":"encodeIEEE754SinglePrecisionFloat.js","sourceRoot":"","sources":["../../../source/utils/encodeIEEE754SinglePrecisionFloat.ts"],"names":[],"mappings":";;AAAA,SACS,iCAAiC,CAAE,KAAa;IACrD,OAAO,IAAI,UAAU,CAAC,IAAI,YAAY,CAAC,CAAE,KAAK,CAAE,CAAC,CAAC,MAAM,CAAC,CAAC,OAAO,EAAE,CAAC;AACxE,CAAC;AAHD,oDAGC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"decodeBoolean.js","sourceRoot":"","sources":["../../../../../source/codecs/oer/decoders/decodeBoolean.ts"],"names":[],"mappings":";;;AAAA,gEAA0C;AAG1C,SACS,aAAa,CAAE,KAAiB;IACrC,IAAI,KAAK,CAAC,MAAM,KAAK,CAAC,EAAE;QACpB,MAAM,IAAI,MAAM,CAAC,aAAa,CAAC,sBAAsB,CAAC,CAAC;KAC1D;IACD,OAAO,CAAC,KAAK,CAAC,CAAC,CAAC,KAAK,CAAC,CAAC,CAAC;AAC5B,CAAC;AAND,gCAMC"}

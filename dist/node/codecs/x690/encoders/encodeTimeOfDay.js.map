@@ -1,0 +1,1 @@
+{"version":3,"file":"encodeTimeOfDay.js","sourceRoot":"","sources":["../../../../../source/codecs/x690/encoders/encodeTimeOfDay.ts"],"names":[],"mappings":";;;AACA,mGAAmE;AAYnE,SACS,eAAe,CAAE,IAAiB;IACvC,OAAO,4BAAkB,CAAC,GAAG,IAAI,CAAC,QAAQ,EAAE,GAAG,IAAI,CAAC,UAAU,EAAE,GAAG,IAAI,CAAC,UAAU,EAAE,EAAE,CAAC,CAAC;AAC5F,CAAC;AAHD,kCAGC"}
